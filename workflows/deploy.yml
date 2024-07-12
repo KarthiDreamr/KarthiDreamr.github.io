@@ -1,3 +1,4 @@
+name: Deploy Svelte to GitHub Pages
 on:
   push:
     branches:
